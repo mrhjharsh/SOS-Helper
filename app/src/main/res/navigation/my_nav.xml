@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav.xml"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.sos_helper.fragment.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_onBoardingFragment"
+            app:destination="@id/onBoardingFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_mainFragment2"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/onBoardingFragment"
+        android:name="com.example.sos_helper.fragment.OnBoardingFragment"
+        android:label="fragment_on_boarding"
+        tools:layout="@layout/fragment_on_boarding" >
+        <action
+            android:id="@+id/action_onBoardingFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_onBoardingFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.sos_helper.fragment.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_addFriendFragment"
+            app:destination="@id/addFriendFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.sos_helper.fragment.LoginFragment"
+        android:label="fragment_login"
+        tools:layout="@layout/fragment_login" >
+        <action
+            android:id="@+id/action_loginFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_signUpFragment"
+            app:destination="@id/signUpFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.example.sos_helper.fragment.SignUpFragment"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" >
+        <action
+            android:id="@+id/action_signUpFragment_to_mainFragment"
+            app:destination="@id/mainFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addFriendFragment"
+        android:name="com.example.sos_helper.fragment.AddFriendFragment"
+        android:label="fragment_add_friend"
+        tools:layout="@layout/fragment_add_friend" >
+        <action
+            android:id="@+id/action_addFriendFragment_to_searchFriendFragment"
+            app:destination="@id/searchFriendFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/searchFriendFragment"
+        android:name="com.example.sos_helper.fragment.SearchFriendFragment"
+        android:label="SearchFriendFragment" />
+</navigation>
