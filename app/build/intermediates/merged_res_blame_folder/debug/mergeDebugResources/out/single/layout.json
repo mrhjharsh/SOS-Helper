@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\adapter_friend_request.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\adapter_friend_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\fragment_splash.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\fragment_add_friend.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\fragment_add_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\fragment_search_friend.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\fragment_search_friend.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\fragment_sign_up.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\fragment_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-mergeDebugResources-57:\\layout\\fragment_on_boarding.xml",
+        "source": "C:\\Users\\hj999\\.gradle\\daemon\\8.7\\com.example.sos_helper.app-main-60:\\layout\\fragment_on_boarding.xml"
+    },
+    {
+        "merged": "com.example.sos_helper.app-mergeDebugResources-57:/layout/adapter_search_user.xml",
+        "source": "com.example.sos_helper.app-main-60:/layout/adapter_search_user.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:hilt-android-testing:2.51.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-4/724329802d0cfd2a2afa619853d3d9f9/transformed/hilt-android-testing-2.51.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-4/724329802d0cfd2a2afa619853d3d9f9/transformed/hilt-android-testing-2.51.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android-testing/2.51.1/61e3c5cc6f02ec98fee0ce8e38debbff931c83f9/hilt-android-testing-2.51.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android-testing/2.51.1/7fb962545b3aea8740aff98299ebca9013d74afe/hilt-android-testing-2.51.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
